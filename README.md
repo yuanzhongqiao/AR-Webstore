@@ -1,196 +1,213 @@
-<h1 align="center">🚀 AR-Webstore</h1>
-
-<div align="center">
-<p align="centre">
-  <img src="https://img.shields.io/github/issues-pr-closed-raw/ShwetKhatri2001/AR-Webstore?style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues-closed-raw/ShwetKhatri2001/AR-Webstore?style=for-the-badge" />
-  <img src="https://img.shields.io/github/contributors/ShwetKhatri2001/AR-Webstore?style=for-the-badge" />
-  <img src="https://img.shields.io/github/repo-size/ShwetKhatri2001/AR-Webstore?style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/ShwetKhatri2001/AR-Webstore?style=for-the-badge" />
+<div class="Box-sc-g0xbh4-0 QkQOb js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h1 align="center" tabindex="-1" class="heading-element" dir="auto" _msttexthash="19417931" _msthash="244">🚀 AR 网店</h1><a id="user-content--ar-webstore" class="anchor" aria-label="永久链接：🚀 AR-Webstore" href="#-ar-webstore" _mstaria-label="26039676" _msthash="245"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div align="center" dir="auto">
+<p align="centre" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/eaf7c048b1b2f2ed2fbaf450efdf949c688d6a38b146538652d216d975a1af87/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732d70722d636c6f7365642d7261772f53687765744b6861747269323030312f41522d57656273746f72653f7374796c653d666f722d7468652d6261646765"><img src="https://camo.githubusercontent.com/eaf7c048b1b2f2ed2fbaf450efdf949c688d6a38b146538652d216d975a1af87/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732d70722d636c6f7365642d7261772f53687765744b6861747269323030312f41522d57656273746f72653f7374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/github/issues-pr-closed-raw/ShwetKhatri2001/AR-Webstore?style=for-the-badge" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b5f0d049e9ae555debd54bbc8f4517b171c9b1531513b6fd6ca75ff86cb9e2da/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732d636c6f7365642d7261772f53687765744b6861747269323030312f41522d57656273746f72653f7374796c653d666f722d7468652d6261646765"><img src="https://camo.githubusercontent.com/b5f0d049e9ae555debd54bbc8f4517b171c9b1531513b6fd6ca75ff86cb9e2da/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732d636c6f7365642d7261772f53687765744b6861747269323030312f41522d57656273746f72653f7374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/github/issues-closed-raw/ShwetKhatri2001/AR-Webstore?style=for-the-badge" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6b6b27e623db123ee9407d2fdb35680cb865cffac7c8f2395584add04bf674bc/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6e7472696275746f72732f53687765744b6861747269323030312f41522d57656273746f72653f7374796c653d666f722d7468652d6261646765"><img src="https://camo.githubusercontent.com/6b6b27e623db123ee9407d2fdb35680cb865cffac7c8f2395584add04bf674bc/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6e7472696275746f72732f53687765744b6861747269323030312f41522d57656273746f72653f7374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/github/contributors/ShwetKhatri2001/AR-Webstore?style=for-the-badge" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4739f755f934785672a1393c5a3a64e68e62fdcd8a53a04980b8b6b495bd4a76/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f7265706f2d73697a652f53687765744b6861747269323030312f41522d57656273746f72653f7374796c653d666f722d7468652d6261646765"><img src="https://camo.githubusercontent.com/4739f755f934785672a1393c5a3a64e68e62fdcd8a53a04980b8b6b495bd4a76/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f7265706f2d73697a652f53687765744b6861747269323030312f41522d57656273746f72653f7374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/github/repo-size/ShwetKhatri2001/AR-Webstore?style=for-the-badge" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6cffb0de7e5039118c316824f418b1f2f0d5f3b85ff136da417e05e760397d1e/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f53687765744b6861747269323030312f41522d57656273746f72653f7374796c653d666f722d7468652d6261646765"><img src="https://camo.githubusercontent.com/6cffb0de7e5039118c316824f418b1f2f0d5f3b85ff136da417e05e760397d1e/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f53687765744b6861747269323030312f41522d57656273746f72653f7374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/github/last-commit/ShwetKhatri2001/AR-Webstore?style=for-the-badge" style="max-width: 100%;"></a>
  </p></div>
-
-![AR-Webstore](https://socialify.git.ci/ShwetKhatri2001/AR-Webstore/image?description=1&descriptionEditable=Webstore%20of%20photorealistic%20%0A3D%20digital%20objects%20in%20AR%20&font=Source%20Code%20Pro&forks=1&issues=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Dark)
-
-<div align="center">
-<h2><i><b>Hi 👋, Shwet here and I welcome you to AR-Webstore!</b></i></h2>
-<h2><i><b>It's a web application to visualize photorealistic 3D objects in AR (Augmented Reality).</b></i></h2>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d333517d80260710a0488e98912b2b2258433ae481e2b573a19870ce3ca9268f/68747470733a2f2f736f6369616c6966792e6769742e63692f53687765744b6861747269323030312f41522d57656273746f72652f696d6167653f6465736372697074696f6e3d31266465736372697074696f6e4564697461626c653d57656273746f72652532306f6625323070686f746f7265616c697374696325323025304133442532306469676974616c2532306f626a65637473253230696e253230415225323026666f6e743d536f75726365253230436f646525323050726f26666f726b733d31266973737565733d31266e616d653d31266f776e65723d31267061747465726e3d466c6f6174696e67253230436f67732670756c6c733d31267374617267617a6572733d31267468656d653d4461726b"><img src="https://camo.githubusercontent.com/d333517d80260710a0488e98912b2b2258433ae481e2b573a19870ce3ca9268f/68747470733a2f2f736f6369616c6966792e6769742e63692f53687765744b6861747269323030312f41522d57656273746f72652f696d6167653f6465736372697074696f6e3d31266465736372697074696f6e4564697461626c653d57656273746f72652532306f6625323070686f746f7265616c697374696325323025304133442532306469676974616c2532306f626a65637473253230696e253230415225323026666f6e743d536f75726365253230436f646525323050726f26666f726b733d31266973737565733d31266e616d653d31266f776e65723d31267061747465726e3d466c6f6174696e67253230436f67732670756c6c733d31267374617267617a6572733d31267468656d653d4461726b" alt="AR 网店" data-canonical-src="https://socialify.git.ci/ShwetKhatri2001/AR-Webstore/image?description=1&amp;descriptionEditable=Webstore%20of%20photorealistic%20%0A3D%20digital%20objects%20in%20AR%20&amp;font=Source%20Code%20Pro&amp;forks=1&amp;issues=1&amp;name=1&amp;owner=1&amp;pattern=Floating%20Cogs&amp;pulls=1&amp;stargazers=1&amp;theme=Dark" style="max-width: 100%;" _mstalt="168974" _msthash="246"></a></p>
+<div align="center" dir="auto">
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><i><b _msttexthash="112078174" _msthash="247">👋 嗨，我是 Shwet，欢迎您来到 AR-Webstore！</b></i></h2><a id="user-content-hi--shwet-here-and-i-welcome-you-to-ar-webstore" class="anchor" aria-label="永久链接：您好👋，Shwet在这里，欢迎您来到 AR-Webstore！" href="#hi--shwet-here-and-i-welcome-you-to-ar-webstore" _mstaria-label="30445116" _msthash="248"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><i><b _msttexthash="254524439" _msthash="249">这是一个 Web 应用程序，可在 AR（增强现实）中可视化逼真的 3D 对象。</b></i></h2><a id="user-content-its-a-web-application-to-visualize-photorealistic-3d-objects-in-ar-augmented-reality" class="anchor" aria-label="永久链接：这是一个 Web 应用程序，可在 AR（增强现实）中可视化逼真的 3D 对象。" href="#its-a-web-application-to-visualize-photorealistic-3d-objects-in-ar-augmented-reality" _mstaria-label="5496582" _msthash="250"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 </div>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="5308706" _msthash="251">目录</h2><a id="user-content-table-of-contents" class="anchor" aria-label="永久链接：目录" href="#table-of-contents" _mstaria-label="634764" _msthash="252"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="#why" _msttexthash="34442317" _msthash="253">为什么选择 AR-Webstore？</a></li>
+<li><a href="#current" _msttexthash="25188033" _msthash="254">项目的当前状态</a></li>
+<li><a href="#preview" _msttexthash="7221292" _msthash="255">预览</a></li>
+<li><a href="#goals" _msttexthash="12180298" _msthash="256">未来目标</a></li>
+<li><a href="#resources" _msttexthash="6234540" _msthash="257">资源</a></li>
+<li><a href="#tech" _msttexthash="15576314" _msthash="258">使用的技术</a></li>
+<li><a href="#setup" _msttexthash="15172963" _msthash="259">设置项目</a></li>
+<li><a href="#build" _msttexthash="2212574" _msthash="260">建</a></li>
+<li><a href="#debug" _msttexthash="27179204" _msthash="261">关于调试的说明</a></li>
+<li><a href="#open-source" _msttexthash="11959077" _msthash="262">开源程序</a></li>
+<li><a href="#project-admin" _msttexthash="17370236" _msthash="263">项目管理员</a></li>
+<li><a href="#contributors" _msttexthash="6354283" _msthash="264">贡献</a></li>
+</ul>
+<p dir="auto"><a name="user-content-why"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="50273795" _msthash="265">🤔 为什么选择 AR-Webstore？</h2><a id="user-content--why-ar-webstore" class="anchor" aria-label="永久链接：🤔为什么选择 AR-Webstore？" href="#-why-ar-webstore" _mstaria-label="26103675" _msthash="266"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="21425417" _msthash="267">问题 😧</h3><a id="user-content-problem-" class="anchor" aria-label="永久链接：问题 😧" href="#problem-" _mstaria-label="36089378" _msthash="268"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="2227952181" _msthash="269">传统的电子商务平台无法提供身临其境的产品体验，使客户不确定商品的外观、合身性和功能。这种缺乏可视化会导致更高的退货率，因为产品可能无法达到预期。此外，由于在线与产品互动和探索产品的能力有限，客户参与度也会受到影响。</p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="19364969" _msthash="270">溶液 😃</h3><a id="user-content-solution-" class="anchor" aria-label="永久链接： 解决方案 😃" href="#solution-" _mstaria-label="37578580" _msthash="271"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="2863470740" _msthash="272">我们的 AR-Webstore 通过无缝集成增强现实彻底改变了购物体验。借助 AR-Webstore，客户可以在自己的空间中可视化产品，并更清楚地查看所有虚拟功能。这使客户能够做出明智的决定，降低退货率并提高参与度，从而带来更令人满意和身临其境的购物旅程。</p>
+<p dir="auto"><a id="user-content-current"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="25188033" _msthash="273">项目的当前状态</h2><a id="user-content-current-state-of-the-project" class="anchor" aria-label="永久链接：项目的当前状态" href="#current-state-of-the-project" _mstaria-label="1079806" _msthash="274"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="2324399025" _msthash="275">它为您提供了一份电子商务产品列表及其 3D 逼真模型，供您在 360 度查看器中试用它们。此外，您可以使用增强现实在自己的环境中查看这些产品，您可以在其中检查椅子、相框和汽车等产品的每一个细节，就好像它们真的存在于您的房间里一样。</p>
 
-## Table of Contents
-
- - [Why AR-Webstore?](#why)
- - [Current State of Project](#current)
- - [Preview](#preview)
- - [Future Goals](#goals)
- - [Resources](#resources)
- - [Technologies Used](#tech)
- - [Setting up the project](#setup)
- - [Build](#build)
- - [A note on debugging](#debug)
- - [Open Source Programs](#open-source)
- - [Project-admin](#project-admin)
- - [Contributors](#contributors)
-  
-<a name="why"></a>
-## 🤔 Why AR-Webstore? 
-
-  ### Problem 😧
-Traditional e-commerce platforms fail to deliver immersive product experiences, leaving customers uncertain about the look, fit, and functionality of items. This lack of visualization leads to higher return rates as products may not meet expectations. Additionally, customer engagement suffers due to the limited ability to interact with and explore products online.
-
-  ### Solution 😃
-Our AR-Webstore revolutionizes the shopping experience by seamlessly integrating augmented reality. With AR-Webstore,customers can visualize products in their own spaces and view all the virtual features more clearly. This empowers customers to make informed decisions, reduces return rates, and enhances engagement, resulting in a more satisfying and immersive shopping journey.
-
-<a id="current"></a>
-## Current State of the Project
-It provides you a list of e-commerce products along with their 3D photorealistic models to try out them in a 360deg viewer. Also, you can view those products in your own environment using augmented reality, where you can check each and every detail of products like chairs, photo frames, and cars as if they were actually present in your room.
+<a name="user-content-preview"></a>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="20054931" _msthash="276">👀 预览</h2><a id="user-content--preview" class="anchor" aria-label="永久链接：👀预览" href="#-preview" _mstaria-label="25786761" _msthash="277"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><a href="https://ar-webstore.netlify.app/" rel="nofollow" _msttexthash="110084" _msthash="278">Live Link</a></h2><a id="user-content-live-link" class="anchor" aria-label="永久链接： Live Link" href="#live-link" _mstaria-label="360529" _msthash="279"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div dir="auto" _msthidden="2">
+  <a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/56475750/265693665-0086f8a4-6f5e-4fcb-a2a8-da6e3c50a745.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMzOTg0NzMsIm5iZiI6MTczMzM5ODE3MywicGF0aCI6Ii81NjQ3NTc1MC8yNjU2OTM2NjUtMDA4NmY4YTQtNmY1ZS00ZmNiLWEyYTgtZGE2ZTNjNTBhNzQ1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjA1VDExMjkzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRkOWE4MTRmNjQwZWIxMTZmODM2MWRhNWQ1Njc3NGJmY2VlMzFjYmFmM2NmNjg0ZTgxMGI0NzU4ZTJmMjZmNzUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Orqjq03MloxLgCr6oDBY8ehoJHxBBh1zDRWxYG5cm90"><img src="https://private-user-images.githubusercontent.com/56475750/265693665-0086f8a4-6f5e-4fcb-a2a8-da6e3c50a745.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMzOTg0NzMsIm5iZiI6MTczMzM5ODE3MywicGF0aCI6Ii81NjQ3NTc1MC8yNjU2OTM2NjUtMDA4NmY4YTQtNmY1ZS00ZmNiLWEyYTgtZGE2ZTNjNTBhNzQ1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjA1VDExMjkzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRkOWE4MTRmNjQwZWIxMTZmODM2MWRhNWQ1Njc3NGJmY2VlMzFjYmFmM2NmNjg0ZTgxMGI0NzU4ZTJmMjZmNzUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Orqjq03MloxLgCr6oDBY8ehoJHxBBh1zDRWxYG5cm90" alt="before" height="450" style="max-width: 100%;" _msthidden="A" _mstalt="77844" _msthash="280"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/56475750/249728055-e2593277-08c3-4344-9161-e9a36506eab6.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMzOTg0NzMsIm5iZiI6MTczMzM5ODE3MywicGF0aCI6Ii81NjQ3NTc1MC8yNDk3MjgwNTUtZTI1OTMyNzctMDhjMy00MzQ0LTkxNjEtZTlhMzY1MDZlYWI2LmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIwNVQxMTI5MzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NDBkZjY0MTk0ZjcyYWNhNjYzM2RhODc4MTI2YTY3ZjRhMDY3NjFmM2ZlY2EyMjY1YTIyOTM4MzliZDkzNjQxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Ez779I4HsxB0TdwuhVqNRiqsMKzFSG98xChp1d5kGOg"><img src="https://private-user-images.githubusercontent.com/56475750/249728055-e2593277-08c3-4344-9161-e9a36506eab6.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMzOTg0NzMsIm5iZiI6MTczMzM5ODE3MywicGF0aCI6Ii81NjQ3NTc1MC8yNDk3MjgwNTUtZTI1OTMyNzctMDhjMy00MzQ0LTkxNjEtZTlhMzY1MDZlYWI2LmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIwNVQxMTI5MzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NDBkZjY0MTk0ZjcyYWNhNjYzM2RhODc4MTI2YTY3ZjRhMDY3NjFmM2ZlY2EyMjY1YTIyOTM4MzliZDkzNjQxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Ez779I4HsxB0TdwuhVqNRiqsMKzFSG98xChp1d5kGOg" alt="after" height="450" style="max-width: 100%;" _msthidden="A" _mstalt="62439" _msthash="281"></a>
 </div>
-<a name="preview"></a>
-
-## 👀 Preview
-
-## [Live Link](https://ar-webstore.netlify.app/)
-
-<div style="display:flex;">
-  <img src="https://github.com/ShwetKhatri2001/AR-Webstore/assets/56475750/0086f8a4-6f5e-4fcb-a2a8-da6e3c50a745" 
-            alt="before" height="450"/>
-  <img src="https://github.com/ShwetKhatri2001/AR-Webstore/assets/56475750/e2593277-08c3-4344-9161-e9a36506eab6" 
-            alt="after" height="450"/>
-</div>
-<a name="goals"></a>
-
-# 🤩 Future Goals
-
-- Build an e-commerce platform that can provide an immersive online shopping experience.
-- Make the products interactive in a real environment rather than just demonstrating static 3D models using ML-AI.
-
-# 😇 Learning Exposure
-
-XR, or Extended Reality, is an exciting technology that combines the real world with virtual elements. As a student interested in XR, while contributing to this project, you will learn about the technical aspects of XR, which involve understanding how to create and render virtual objects, recognize and track objects in the real world, and explore how users interact with virtual environments, ensuring intuitive and immersive experiences. While studying XR, you can delve into programming technologies like Three.js or Unity to develop interactive and immersive experiences. You'll also explore 3D modelling and animation to create virtual objects and environments.
-
-No no! Don't worry about some top of the world words mentioned above, the project is completely beginner friendly 😅 !But if you give your best, then you can really learn and build something out of the box for the future while working on this project, which I can ensure 😎!Find some helpful resources below to start your journey in XR.
-
-<a name="resources"></a>
-## Resources 🙌
-- [Develop your first WebAR app using WebXR and Three.js](https://codemaker2016.medium.com/develop-your-first-webar-app-using-webxr-and-three-js-7a437cb00a92)
-- [WebXR Workshop](https://www.youtube.com/watch?v=gAzIkjkJSzM)
-<a name="tech"></a>
-
-## 🧰 Technologies Used
-
-![three.js](https://img.shields.io/badge/three.js-000000.svg?style=for-the-badge&logo=three.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/-JavaScript-FE7601?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS5](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-<a name="setup"></a>
-## 🔥 Setting up and running the app locally
-
-1. Fork the repo
-   - First, you have to make your own copy of the project. For that, you have to fork the repository.You can find the fork button on the top-right side of the browser window.(Refer to the image below.)
-   - Kindly wait till it gets forked.
-   - After that copy, it will look like "<your-user-name>/AR-Webstore" forked from "ShwetKhatri2001/AR-Webstore"
-  
-2. Clone the repo to your system
-    - Now you have your own copy of the project. Here, you have to start your work.
-    - Go to the desired location on your computer where you want to set up the project.
-    - Open that location on your terminal and clone the repo using the commands given below.
-  
-    ```
-    git clone https://github.com/<your-username>/AR-Webstore.git
-    ```
-    ```
-    cd AR-Webstore
-    ``` 
-3. To get the web app up and running, you need to run the following commands to install dependencies and start the app.
-    ```
-    npm install
-    ```
-    ```
-    npm start
-    ```
-
-This will install the app dependencies, start an instance of webpack-dev-server, and expose the local web server to the internet using the local tunnel URL will be printed on your terminal.
-
-<a name="docker"></a>
-## 🧰 Docker-Setup
-
-1. Get the docker 
-   For Windows/WSL use this : (https://docs.docker.com/desktop/install/windows-install/)
-   For Mac use this: (https://docs.docker.com/desktop/install/mac-install/)
-
-2. Check whether docker has been installed or not using 
-    `docker -v`
-
-3. Pull the Image of  #AR-webstore from dockerhub
-    `docker pull shwetkhatri2001/ar-webstore`
-4. List the images that are present currently 
-    `docker images`
-5. Run the docker image of #AR-webstore 
-    `docker run -p 3000:3000 shwetkhatri2001/ar-webstore`
-
-You will get the react-app running on `http://localhost:3000/`
-
-<a name="build"></a>
-## 🧰 Build
-
-Run `npm run build` to build the project. The build artifacts will be stored in the `build/` directory.
-
-```
-npm run build
-```
-<a name="debug"></a>
-## 📝 A note on debugging
-
-For development and debugging, attach the device to your machine using a cable and access the url `chrome://inspect/#devices` in your desktop version of Chrome. Allow debug access when prompted on your device. You should then be able to see your device appear in the inspection window you opened earlier, where you can use the `inspect` functionality to get access to the running app instance for debugging.
-
-<a name="open-source"></a>
-## 📌 Open source Programs
-
-### This project has been a part of the following Open Source Programs
-
+<a name="user-content-goals"></a>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto" _msttexthash="25964900" _msthash="282">🤩 未来目标</h1><a id="user-content--future-goals" class="anchor" aria-label="永久链接：🤩未来目标" href="#-future-goals" _mstaria-label="25984946" _msthash="283"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li _msttexthash="175497062" _msthash="284">构建一个可以提供身临其境的在线购物体验的电子商务平台。</li>
+<li _msttexthash="219224954" _msthash="285">使产品在真实环境中具有交互性，而不仅仅是使用 ML-AI 演示静态 3D 模型。</li>
+</ul>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto" _msttexthash="25370514" _msthash="286">😇 学习体验</h1><a id="user-content--learning-exposure" class="anchor" aria-label="永久链接：😇学习曝光" href="#-learning-exposure" _mstaria-label="26263237" _msthash="287"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="6963329282" _msthash="288">XR 或扩展现实是一项令人兴奋的技术，它将现实世界与虚拟元素相结合。作为一名对 XR 感兴趣的学生，在为该项目做出贡献的同时，您将了解 XR 的技术方面，其中包括了解如何创建和渲染虚拟对象、识别和跟踪现实世界中的对象，以及探索用户如何与虚拟环境交互，确保直观和身临其境的体验。在学习 XR 的同时，您可以深入研究 Three.js 或 Unity 等编程技术，以开发交互式和身临其境的体验。您还将探索 3D 建模和动画以创建虚拟对象和环境。</p>
+<p dir="auto" _msttexthash="2591514380" _msthash="289">不 不！不用担心上面提到的一些世界顶级词，该项目完全适合😅初学者！但是，如果你全力以赴，那么你真的可以在从事这个项目时真正学习并为未来构建一些开箱即用的东西，我可以确保😎这一点！在下面找到一些有用的资源，开始您的 XR 之旅。</p>
+<p dir="auto"><a name="user-content-resources"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="20109349" _msthash="290">资源 🙌</h2><a id="user-content-resources-" class="anchor" aria-label="永久链接： 资源 🙌" href="#resources-" _mstaria-label="39094133" _msthash="291"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://codemaker2016.medium.com/develop-your-first-webar-app-using-webxr-and-three-js-7a437cb00a92" rel="nofollow" _msttexthash="119522026" _msthash="292">使用 WebXR 和 Three.js 开发您的第一个 WebAR 应用程序</a></li>
+<li><a href="https://www.youtube.com/watch?v=gAzIkjkJSzM" rel="nofollow" _msttexthash="14576081" _msthash="293">WebXR 研讨会</a>
+<a name="user-content-tech"></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="29962920" _msthash="294">🧰 使用的技术</h2><a id="user-content--technologies-used" class="anchor" aria-label="永久链接： 🧰 使用的技术" href="#-technologies-used" _mstaria-label="26246610" _msthash="295"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e966c010cbab07ea08e07b8760cad1b28959c859dc997b8cd84bdfc1ffc655fa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f74687265652e6a732d3030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d74687265652e6a73266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/e966c010cbab07ea08e07b8760cad1b28959c859dc997b8cd84bdfc1ffc655fa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f74687265652e6a732d3030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d74687265652e6a73266c6f676f436f6c6f723d7768697465" alt="three.js" data-canonical-src="https://img.shields.io/badge/three.js-000000.svg?style=for-the-badge&amp;logo=three.js&amp;logoColor=white" style="max-width: 100%;" _mstalt="108303" _msthash="296"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f93e05694a6f01f2f6a37713a454a942442a5ff2b33083891096a6f7e57842f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642"><img src="https://camo.githubusercontent.com/f93e05694a6f01f2f6a37713a454a942442a5ff2b33083891096a6f7e57842f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642" alt="反应" data-canonical-src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" style="max-width: 100%;" _mstalt="58773" _msthash="297"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/13ac98ec182c178a22ad9518fd7a1489ea4a5aa20d165d1360fbdb04385f036e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d4645373630313f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074"><img src="https://camo.githubusercontent.com/13ac98ec182c178a22ad9518fd7a1489ea4a5aa20d165d1360fbdb04385f036e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d4645373630313f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074" alt="JavaScript （英语）" data-canonical-src="https://img.shields.io/badge/-JavaScript-FE7601?style=for-the-badge&amp;logo=javascript" style="max-width: 100%;" _mstalt="154895" _msthash="298"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/10c7a8fa2cf317cc7c4af6f13efac086a9f0ea010f0dfc746c94e5cde310b339/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/10c7a8fa2cf317cc7c4af6f13efac086a9f0ea010f0dfc746c94e5cde310b339/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML5 格式" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;" _mstalt="41756" _msthash="299"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/001d4637c08910acf414f12a1682879a1f99867f6f9a3550f0541e7d03dd34a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/001d4637c08910acf414f12a1682879a1f99867f6f9a3550f0541e7d03dd34a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="CSS5 的" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;" _mstalt="31330" _msthash="300"></a></p>
+<p dir="auto"><a name="user-content-setup"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="76010610" _msthash="301">🔥 在本地设置和运行应用程序</h2><a id="user-content--setting-up-and-running-the-app-locally" class="anchor" aria-label="永久链接：🔥在本地设置和运行应用程序" href="#-setting-up-and-running-the-app-locally" _mstaria-label="27170728" _msthash="302"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ol dir="auto">
+<li>
+<p dir="auto" _msttexthash="10701821" _msthash="303">Fork 存储库</p>
+<ul dir="auto">
+<li _msttexthash="633020128" _msthash="304">首先，您必须制作自己的项目副本。为此，您必须 fork 存储库。您可以在浏览器窗口的右上角找到 fork 按钮。（请参阅下图。</li>
+<li _msttexthash="26589966" _msthash="305">请等待它被分叉。</li>
+<li _msttexthash="181212499" _msthash="306">在该副本之后，它看起来像是从“ShwetKhatri2001/AR-Webstore”分叉而来的“/AR-Webstore”</li>
+</ul>
+</li>
+<li>
+<p dir="auto" _msttexthash="46934524" _msthash="307">将存储库克隆到您的系统</p>
+<ul dir="auto">
+<li _msttexthash="210751879" _msthash="308">现在，您拥有自己的项目副本。在这里，您必须开始您的工作。</li>
+<li _msttexthash="96298033" _msthash="309">转到计算机上要设置项目的所需位置。</li>
+<li _msttexthash="155244830" _msthash="310">在终端上打开该位置并使用下面给出的命令克隆存储库。</li>
+</ul>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>git clone https://github.com/&lt;your-username&gt;/AR-Webstore.git
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="git clone https://github.com/<your-username>/AR-Webstore.git" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>cd AR-Webstore
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="cd AR-Webstore" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+</li>
+<li>
+<p dir="auto" _msttexthash="317817578" _msthash="311">要启动并运行 Web 应用程序，您需要运行以下命令来安装依赖项并启动应用程序。</p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>npm install
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="npm install" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>npm start
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="npm start" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+</li>
+</ol>
+<p dir="auto" _msttexthash="776972066" _msthash="312">这将安装应用程序依赖项，启动 webpack-dev-server 的实例，并使用本地隧道将本地 Web 服务器公开给 Internet，该 URL 将打印在您的终端上。</p>
+<p dir="auto"><a name="user-content-docker"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="11181417" _msthash="313">🧰 docker-setup</h2><a id="user-content--docker-setup" class="anchor" aria-label="永久链接：🧰 docker-setup" href="#-docker-setup" _mstaria-label="26052962" _msthash="314"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ol dir="auto">
+<li>
+<p dir="auto"><font _mstmutation="1" _msttexthash="764763727" _msthash="315">获取 docker
+对于 Windows/WSL，请使用此 ： （<a href="https://docs.docker.com/desktop/install/windows-install/" rel="nofollow" _mstmutation="1" _istranslated="1">https://docs.docker.com/desktop/install/windows-install/</a>）
+对于 Mac，请使用以下命令：（<a href="https://docs.docker.com/desktop/install/mac-install/" rel="nofollow" _mstmutation="1" _istranslated="1">https://docs.docker.com/desktop/install/mac-install/</a></font>)</p>
+</li>
+<li>
+<p dir="auto"><font _mstmutation="1" _msttexthash="4971109" _msthash="316">使用</font><code>docker -v</code></p>
+</li>
+<li>
+<p dir="auto"><font _mstmutation="1" _msttexthash="49965539" _msthash="317">从 dockerhub 拉取 #AR-webstore 的镜像</font><code>docker pull shwetkhatri2001/ar-webstore</code></p>
+</li>
+<li>
+<p dir="auto"><font _mstmutation="1" _msttexthash="30433247" _msthash="318">列出当前存在的映像</font><code>docker images</code></p>
+</li>
+<li>
+<p dir="auto"><font _mstmutation="1" _msttexthash="37399193" _msthash="319">运行 #AR-webstore 的 docker 镜像</font><code>docker run -p 3000:3000 shwetkhatri2001/ar-webstore</code></p>
+</li>
+</ol>
+<p dir="auto"><font _mstmutation="1" _msttexthash="31506631" _msthash="320">您将在 react-app 上运行</font><code>http://localhost:3000/</code></p>
+<p dir="auto"><a name="user-content-build"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="13791180" _msthash="321">🧰 建</h2><a id="user-content--build" class="anchor" aria-label="永久链接：🧰构建" href="#-build" _mstaria-label="25811942" _msthash="322"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font _mstmutation="1" _msttexthash="100493601" _msthash="323">Run 以生成项目。构建工件将存储在目录中。</font><code>npm run build</code><code>build/</code></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>npm run build
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="npm run build" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><a name="user-content-debug"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="43424225" _msthash="324">📝 关于调试的说明</h2><a id="user-content--a-note-on-debugging" class="anchor" aria-label="永久链接：📝关于调试的说明" href="#-a-note-on-debugging" _mstaria-label="26187018" _msthash="325"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font _mstmutation="1" _msttexthash="2885136371" _msthash="326">要进行开发和调试，请使用数据线将设备连接到您的计算机，并在桌面版 Chrome 中访问 URL。在您的设备上出现提示时允许调试访问。然后，您应该能够看到您的设备出现在您之前打开的检查窗口中，您可以在其中使用该功能访问正在运行的应用程序实例以进行调试。</font><code>chrome://inspect/#devices</code><code>inspect</code></p>
+<p dir="auto"><a name="user-content-open-source"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="25684984" _msthash="327">📌 开源程序</h2><a id="user-content--open-source-programs" class="anchor" aria-label="永久链接： 📌 Open source Programs" href="#-open-source-programs" _mstaria-label="26289367" _msthash="328"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="80034409" _msthash="329">该项目已成为以下开源计划的一部分</h3><a id="user-content-this-project-has-been-a-part-of-the-following-open-source-programs" class="anchor" aria-label="永久链接：此项目已成为以下开源程序的一部分" href="#this-project-has-been-a-part-of-the-following-open-source-programs" _mstaria-label="3470142" _msthash="330"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <br>
-
-<div align="left">
-  <picture>
+<div align="left" dir="auto" _msthidden="1">
+  <themed-picture data-catalyst-inline="true" data-catalyst=""><picture>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GirlScriptSummerOfCode/MentorshipProgram/master/GSsoc%20Type%20Logo%20Black.png">
     <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/63473496/213306279-338f7ce9-9a9f-4427-8c2a-3e344874498f.png">
-    <img alt="Girlscript Summer of Code" width=500 src="https://user-images.githubusercontent.com/63473496/213306279-338f7ce9-9a9f-4427-8c2a-3e344874498f.png">
-  </picture>
+    <img alt="Girlscript Summer of Code" width="500" src="https://user-images.githubusercontent.com/63473496/213306279-338f7ce9-9a9f-4427-8c2a-3e344874498f.png" style="visibility:visible;max-width:100%;" _msthidden="A" _mstalt="518323" _msthash="331">
+  </picture></themed-picture>
 </div>
-
-<br/>
-<br/>
-<img src="https://github.com/ShwetKhatri2001/Swetify-Music/assets/56475750/32c23460-579d-4158-b1c5-aaae3b53cba7" width="500" />
-<br/>
-<br/>
-<br/>
-<img src="https://github.com/ShwetKhatri2001/Swetify-Music/assets/56475750/cafaa1b8-4f6e-40a4-bf19-371e173faf63" width="400" />
-<br/>
-<br/>
-<img src="https://github.com/ShwetKhatri2001/Swetify-Music/assets/56475750/fcfa9ffe-7d51-4ad8-89e0-ae38589a710e" width="250" />
-<br/>
-<br/>
-
-<a name="project-admin"></a>
-## Project Admin
-<table>
-        <tr>
-            <td align="centre"><a href="https://github.com/ShwetKhatri2001"><img alt=""
-                        src="https://avatars.githubusercontent.com/u/56475750?v=4" width="150px;" height="150px;"><br><sub><b> Shwet Khatri
-                        </b></sub></a><br></td> </a></td>
-</table>
-
-## Mentors
-I am looking for some mentors who can help me maintain the project workflow.
-
-<a name="contributors"><a/>
-  
-## Contributors 🎇
-
-### Credits goes to these people:
-
+<br>
+<br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/56475750/302087278-32c23460-579d-4158-b1c5-aaae3b53cba7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMzOTg0NzMsIm5iZiI6MTczMzM5ODE3MywicGF0aCI6Ii81NjQ3NTc1MC8zMDIwODcyNzgtMzJjMjM0NjAtNTc5ZC00MTU4LWIxYzUtYWFhZTNiNTNjYmE3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjA1VDExMjkzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIyMjIzNjVjMmE1MGY3ZmExNDFhZjhlODNkOTJiODQ3ODFjYjBmNWNlNmQ0ODZhNzI3ZTdlMTgzZWFmMWE3NWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Lm-KAHx9yrBk8ExIAMcuGhkGhGuFVhl-m6MjAgEKfS4"><img src="https://private-user-images.githubusercontent.com/56475750/302087278-32c23460-579d-4158-b1c5-aaae3b53cba7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMzOTg0NzMsIm5iZiI6MTczMzM5ODE3MywicGF0aCI6Ii81NjQ3NTc1MC8zMDIwODcyNzgtMzJjMjM0NjAtNTc5ZC00MTU4LWIxYzUtYWFhZTNiNTNjYmE3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjA1VDExMjkzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIyMjIzNjVjMmE1MGY3ZmExNDFhZjhlODNkOTJiODQ3ODFjYjBmNWNlNmQ0ODZhNzI3ZTdlMTgzZWFmMWE3NWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Lm-KAHx9yrBk8ExIAMcuGhkGhGuFVhl-m6MjAgEKfS4" width="500" style="max-width: 100%;"></a>
+<br>
+<br>
+<br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/56475750/302089519-cafaa1b8-4f6e-40a4-bf19-371e173faf63.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMzOTg0NzMsIm5iZiI6MTczMzM5ODE3MywicGF0aCI6Ii81NjQ3NTc1MC8zMDIwODk1MTktY2FmYWExYjgtNGY2ZS00MGE0LWJmMTktMzcxZTE3M2ZhZjYzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjA1VDExMjkzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk1OWIwNDM1YWJmNTY3Y2QyM2IxNzk1NDI3YzdmM2Q1ZTg5MzIxZTdiZDZhMzc2MWIzM2U5MTZjOGNiMjJmZDgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.RVORqvto2yfemlQemISXGEeTAxaDEHnkPSav2XfimT4"><img src="https://private-user-images.githubusercontent.com/56475750/302089519-cafaa1b8-4f6e-40a4-bf19-371e173faf63.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMzOTg0NzMsIm5iZiI6MTczMzM5ODE3MywicGF0aCI6Ii81NjQ3NTc1MC8zMDIwODk1MTktY2FmYWExYjgtNGY2ZS00MGE0LWJmMTktMzcxZTE3M2ZhZjYzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjA1VDExMjkzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk1OWIwNDM1YWJmNTY3Y2QyM2IxNzk1NDI3YzdmM2Q1ZTg5MzIxZTdiZDZhMzc2MWIzM2U5MTZjOGNiMjJmZDgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.RVORqvto2yfemlQemISXGEeTAxaDEHnkPSav2XfimT4" width="400" style="max-width: 100%;"></a>
+<br>
+<br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/56475750/302088675-fcfa9ffe-7d51-4ad8-89e0-ae38589a710e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMzOTg0NzMsIm5iZiI6MTczMzM5ODE3MywicGF0aCI6Ii81NjQ3NTc1MC8zMDIwODg2NzUtZmNmYTlmZmUtN2Q1MS00YWQ4LTg5ZTAtYWUzODU4OWE3MTBlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjA1VDExMjkzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJkYTU4N2M1YTkzYzBlNzA0MjVlZmQ5MDJkZTljMTFlOWVhNDNlM2I0NWVlZTM1NmE2YmE0OGUwNjY2YWJlMzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.j3rP1ciSt31eMLCsD286yqNuYraQasoF0rQflCC7LPE"><img src="https://private-user-images.githubusercontent.com/56475750/302088675-fcfa9ffe-7d51-4ad8-89e0-ae38589a710e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMzOTg0NzMsIm5iZiI6MTczMzM5ODE3MywicGF0aCI6Ii81NjQ3NTc1MC8zMDIwODg2NzUtZmNmYTlmZmUtN2Q1MS00YWQ4LTg5ZTAtYWUzODU4OWE3MTBlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjA1VDExMjkzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJkYTU4N2M1YTkzYzBlNzA0MjVlZmQ5MDJkZTljMTFlOWVhNDNlM2I0NWVlZTM1NmE2YmE0OGUwNjY2YWJlMzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.j3rP1ciSt31eMLCsD286yqNuYraQasoF0rQflCC7LPE" width="250" style="max-width: 100%;"></a>
+<br>
+<br>
+<p dir="auto"><a name="user-content-project-admin"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="17370236" _msthash="332">项目管理员</h2><a id="user-content-project-admin" class="anchor" aria-label="永久链接：Project Admin" href="#project-admin" _mstaria-label="503126" _msthash="333"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<markdown-accessiblity-table data-catalyst=""><table>
+        <tbody><tr>
+            <td align="centre"><a href="https://github.com/ShwetKhatri2001"><img alt="" src="https://avatars.githubusercontent.com/u/56475750?v=4" width="150px;" height="150px;" style="max-width: 100%;"><br><sub><b _msttexthash="178477" _msthash="334">Shwet Khatri</b></sub></a><br></td> 
+</tr></tbody></table></markdown-accessiblity-table>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="4646356" _msthash="335">导师</h2><a id="user-content-mentors" class="anchor" aria-label="永久链接： 导师" href="#mentors" _mstaria-label="341978" _msthash="336"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="144573065" _msthash="337">我正在寻找一些可以帮助我维护项目工作流程的导师。</p>
+<p dir="auto"><a name="user-content-contributors"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="20269925" _msthash="338">贡献 🎇</h2><a id="user-content-contributors-" class="anchor" aria-label="永久链接： 贡献者 🎇" href="#contributors-" _mstaria-label="43715048" _msthash="339"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="38479454" _msthash="340">功劳归属于这些人：</h3><a id="user-content-credits-goes-to-these-people" class="anchor" aria-label="永久链接：学分归这些人所有：" href="#credits-goes-to-these-people" _mstaria-label="1130428" _msthash="341"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <a href="https://github.com/ShwetKhatri2001/AR-Webstore/graphs/contributors">
-   <img src="https://contrib.rocks/image?repo=ShwetKhatri2001/AR-Webstore" />
+   <img src="https://camo.githubusercontent.com/1b2feea326ddabdf2797ec40f77a51513283bbdcccb17cf995f7a9968eab7c36/68747470733a2f2f636f6e747269622e726f636b732f696d6167653f7265706f3d53687765744b6861747269323030312f41522d57656273746f7265" data-canonical-src="https://contrib.rocks/image?repo=ShwetKhatri2001/AR-Webstore" style="max-width: 100%;">
 </a>
-
+</article></div>
